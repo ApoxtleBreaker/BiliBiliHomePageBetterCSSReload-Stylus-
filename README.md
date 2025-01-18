@@ -1,4 +1,5 @@
 ## 基于`Stylus`实现的b站主页css更改
+![图片展示](./display.png )
 #### 进度
  + 替换logo
  + 隐藏header多余按钮
@@ -12,3 +13,4 @@
 ### 联系
 + [YouTuBe](https://www.youtube.com/@YanjerTS)
 + [BiliBili](https://space.bilibili.com/1979641484')
+  
