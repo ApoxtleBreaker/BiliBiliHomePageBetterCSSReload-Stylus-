@@ -9,6 +9,6 @@
  + 背景图隐藏 增加全屏fixed背景  用随机背景api[优化](请求的图片为原图  请求压缩的背景图api 加快背景显示 优化用户体验)
  + 窗口主题更改毛玻璃效果(个人简介和大会员未生效)
 
-###联系
+### 联系
 + [YouTuBe](https://www.youtube.com/@YanjerTS)
 + [BiliBili](https://space.bilibili.com/1979641484')
