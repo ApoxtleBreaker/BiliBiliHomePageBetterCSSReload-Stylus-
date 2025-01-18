@@ -20,7 +20,7 @@
 
 
 ### 使用
-[userstyles市场]https://userstyles.world/style/20403/bilibili-yanjerts
+[userstyles市场](https://userstyles.world/style/20403/bilibili-yanjerts)
 
 ### 联系
 + [YouTuBe](https://www.youtube.com/@YanjerTS)
