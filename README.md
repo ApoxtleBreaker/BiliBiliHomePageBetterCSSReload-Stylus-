@@ -10,5 +10,5 @@
  + 窗口主题更改毛玻璃效果(个人简介和大会员未生效)
 
 ###联系
-[YouTuBe](https://www.youtube.com/@YanjerTS)
-[BiliBili](https://space.bilibili.com/1979641484')
++ [YouTuBe](https://www.youtube.com/@YanjerTS)
++ [BiliBili](https://space.bilibili.com/1979641484')
