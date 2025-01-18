@@ -105,6 +105,7 @@ html body .bili-header__bar,.slide-down,.bili-feed4{
     > .animated-banner {
         background-color: #25152a;
         background-image: url(https://www.dmoe.cc/random.php)!important;
+        background-size: cover;
         height: 100vh!important;
         display: block;
         position: fixed;
@@ -125,6 +126,8 @@ html body .bili-header__bar,.slide-down,.bili-feed4{
     .trending{
     display: none!important;
 }
+    
+/*   用户可选功能 == ==== */
 /* 隐藏所有 鼠标移入显示 */
 /* .bili-feed4-layout{
      transition: cubic-bezier(0.075, 0.82, 0.165, 1) ;
@@ -161,8 +164,12 @@ html body .bili-header__bar,.slide-down,.bili-feed4{
     .recommended-swipe{
     display: none!important;
 } */
+    
+/*  ========================*/
+    
+/*   用户可选功能 == ==== */
 /* 更大的视频间距 */
-    .bili-feed4-layout{
+/*     .bili-feed4-layout{
     transform: translateY(-10px);
 
     backdrop-filter: blur(5px);
@@ -172,9 +179,9 @@ html body .bili-header__bar,.slide-down,.bili-feed4{
     }
 .recommended-container_floor-aside .container{
     grid-gap:55px!important;
-}
+} */
+/*  ========================*/
 /* 历史播放弹窗 */
-    
 .continuous-history-card,.header-tabs-panel,.v-popover-content,.vip-panel-popover,.search-panel,
     .header-avatar-wrap .popover {
     backdrop-filter: blur(5px)!important;
